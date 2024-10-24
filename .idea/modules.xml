@@ -5,11 +5,14 @@
       <module fileurl="file://$PROJECT_DIR$/isAnagram/anagram/anagram.iml" filepath="$PROJECT_DIR$/isAnagram/anagram/anagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/containsDuplicate/containsDuplicate/containsDuplicate.iml" filepath="$PROJECT_DIR$/containsDuplicate/containsDuplicate/containsDuplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/groupAnagram/groupAnagram/groupAnagram.iml" filepath="$PROJECT_DIR$/groupAnagram/groupAnagram/groupAnagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/happyNumber/happyNumber/happyNumber.iml" filepath="$PROJECT_DIR$/happyNumber/happyNumber/happyNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/kidsWithGreatestNoOfCandies/kidsWithGreatestNoOfCandies/kidsWithGreatestNoOfCandies.iml" filepath="$PROJECT_DIR$/kidsWithGreatestNoOfCandies/kidsWithGreatestNoOfCandies/kidsWithGreatestNoOfCandies.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/majorityElement/majorityElement.iml" filepath="$PROJECT_DIR$/majorityElement/majorityElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/mergeStringsAlternately/mergeStringsAlternately/mergeStringsAlternately.iml" filepath="$PROJECT_DIR$/mergeStringsAlternately/mergeStringsAlternately/mergeStringsAlternately.iml" />
       <module fileurl="file://$PROJECT_DIR$/romanToInteger/romanToInteger/romanToInteger.iml" filepath="$PROJECT_DIR$/romanToInteger/romanToInteger/romanToInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/twoSum/twoSum/twoSum.iml" filepath="$PROJECT_DIR$/twoSum/twoSum/twoSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validPalindrome/validPalindrome/validPalindrome.iml" filepath="$PROJECT_DIR$/validPalindrome/validPalindrome/validPalindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/wordPattern/wordPattern/wordPattern.iml" filepath="$PROJECT_DIR$/wordPattern/wordPattern/wordPattern.iml" />
     </modules>
   </component>
