@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/majorityElement/majorityElement.iml" filepath="$PROJECT_DIR$/majorityElement/majorityElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/mergeStringsAlternately/mergeStringsAlternately/mergeStringsAlternately.iml" filepath="$PROJECT_DIR$/mergeStringsAlternately/mergeStringsAlternately/mergeStringsAlternately.iml" />
+      <module fileurl="file://$PROJECT_DIR$/removeZeros/removeZeros/removeZeros.iml" filepath="$PROJECT_DIR$/removeZeros/removeZeros/removeZeros.iml" />
       <module fileurl="file://$PROJECT_DIR$/romanToInteger/romanToInteger/romanToInteger.iml" filepath="$PROJECT_DIR$/romanToInteger/romanToInteger/romanToInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/twoSum/twoSum/twoSum.iml" filepath="$PROJECT_DIR$/twoSum/twoSum/twoSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/validPalindrome/validPalindrome/validPalindrome.iml" filepath="$PROJECT_DIR$/validPalindrome/validPalindrome/validPalindrome.iml" />
