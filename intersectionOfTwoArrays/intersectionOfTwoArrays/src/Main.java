@@ -6,8 +6,8 @@ import java.util.HashSet;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        int [] num1={1,2,1};
-        int[] num2 ={4,2,3,5};
+        int [] num1={4,9,5};
+        int[] num2 ={9,4,9,8,4};
         System.out.println("output: "+ Arrays.toString(intersection(num1, num2)));
     }
     public static int[] intersection(int[] nums1, int[] nums2) {
@@ -51,10 +51,12 @@ public class Main {
         for (int num : nums2){
             if(unique1.contains(num)){
                 holdResult.add(num);
+                System.out.println("hold: "+ holdResult);
                 unique1.remove(num);
             }
         }
-        int[] result=new int[unique1.size()];
+        int[] result=new int[holdResult.size()];
+        System.out.println();
         for(int i=0; i < result.length;i++){
             result[i]= holdResult.get(i);
         }
