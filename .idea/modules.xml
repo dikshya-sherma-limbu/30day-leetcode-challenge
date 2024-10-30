@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/containsDuplicate/containsDuplicate/containsDuplicate.iml" filepath="$PROJECT_DIR$/containsDuplicate/containsDuplicate/containsDuplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/groupAnagram/groupAnagram/groupAnagram.iml" filepath="$PROJECT_DIR$/groupAnagram/groupAnagram/groupAnagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/happyNumber/happyNumber/happyNumber.iml" filepath="$PROJECT_DIR$/happyNumber/happyNumber/happyNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intersectionOfTwoArrays/intersectionOfTwoArrays/intersectionOfTwoArrays.iml" filepath="$PROJECT_DIR$/intersectionOfTwoArrays/intersectionOfTwoArrays/intersectionOfTwoArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/kidsWithGreatestNoOfCandies/kidsWithGreatestNoOfCandies/kidsWithGreatestNoOfCandies.iml" filepath="$PROJECT_DIR$/kidsWithGreatestNoOfCandies/kidsWithGreatestNoOfCandies/kidsWithGreatestNoOfCandies.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/majorityElement/majorityElement.iml" filepath="$PROJECT_DIR$/majorityElement/majorityElement.iml" />
