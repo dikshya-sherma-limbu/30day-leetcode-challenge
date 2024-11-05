@@ -7,12 +7,15 @@
       <module fileurl="file://$PROJECT_DIR$/groupAnagram/groupAnagram/groupAnagram.iml" filepath="$PROJECT_DIR$/groupAnagram/groupAnagram/groupAnagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/happyNumber/happyNumber/happyNumber.iml" filepath="$PROJECT_DIR$/happyNumber/happyNumber/happyNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/intersectionOfTwoArrays/intersectionOfTwoArrays/intersectionOfTwoArrays.iml" filepath="$PROJECT_DIR$/intersectionOfTwoArrays/intersectionOfTwoArrays/intersectionOfTwoArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intersectionOfTwoArraysII/intersectionOfTwoArraysII/intersectionOfTwoArraysII.iml" filepath="$PROJECT_DIR$/intersectionOfTwoArraysII/intersectionOfTwoArraysII/intersectionOfTwoArraysII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isSubsequence/isSubsequence/isSubsequence.iml" filepath="$PROJECT_DIR$/isSubsequence/isSubsequence/isSubsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/kidsWithGreatestNoOfCandies/kidsWithGreatestNoOfCandies/kidsWithGreatestNoOfCandies.iml" filepath="$PROJECT_DIR$/kidsWithGreatestNoOfCandies/kidsWithGreatestNoOfCandies/kidsWithGreatestNoOfCandies.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/majorityElement/majorityElement.iml" filepath="$PROJECT_DIR$/majorityElement/majorityElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/mergeStringsAlternately/mergeStringsAlternately/mergeStringsAlternately.iml" filepath="$PROJECT_DIR$/mergeStringsAlternately/mergeStringsAlternately/mergeStringsAlternately.iml" />
       <module fileurl="file://$PROJECT_DIR$/removeZeros/removeZeros/removeZeros.iml" filepath="$PROJECT_DIR$/removeZeros/removeZeros/removeZeros.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverseString/reverseString/reverseString.iml" filepath="$PROJECT_DIR$/reverseString/reverseString/reverseString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverseStringII/reverseStringII/reverseStringII.iml" filepath="$PROJECT_DIR$/reverseStringII/reverseStringII/reverseStringII.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverseVowelOfString/reverseVowelOfString/reverseVowelOfString.iml" filepath="$PROJECT_DIR$/reverseVowelOfString/reverseVowelOfString/reverseVowelOfString.iml" />
       <module fileurl="file://$PROJECT_DIR$/romanToInteger/romanToInteger/romanToInteger.iml" filepath="$PROJECT_DIR$/romanToInteger/romanToInteger/romanToInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/twoSum/twoSum/twoSum.iml" filepath="$PROJECT_DIR$/twoSum/twoSum/twoSum.iml" />

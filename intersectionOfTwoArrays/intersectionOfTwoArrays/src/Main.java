@@ -50,10 +50,16 @@ public class Main {
         int count=0;
         for (int num : nums2){
             if(unique1.contains(num)){
-                holdResult.add(num);
+                if (!holdResult.contains(num) ) {
+                    holdResult.add(num);
+                }
+
                 System.out.println("hold: "+ holdResult);
                 unique1.remove(num);
             }
+        }
+        while(nums1.length < nums2.length){
+
         }
         int[] result=new int[holdResult.size()];
         System.out.println();
