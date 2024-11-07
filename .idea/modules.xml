@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/romanToInteger/romanToInteger/romanToInteger.iml" filepath="$PROJECT_DIR$/romanToInteger/romanToInteger/romanToInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/twoSum/twoSum/twoSum.iml" filepath="$PROJECT_DIR$/twoSum/twoSum/twoSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/validPalindrome/validPalindrome/validPalindrome.iml" filepath="$PROJECT_DIR$/validPalindrome/validPalindrome/validPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validParentheses/validParentheses/validParentheses.iml" filepath="$PROJECT_DIR$/validParentheses/validParentheses/validParentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/wordPattern/wordPattern/wordPattern.iml" filepath="$PROJECT_DIR$/wordPattern/wordPattern/wordPattern.iml" />
     </modules>
   </component>
